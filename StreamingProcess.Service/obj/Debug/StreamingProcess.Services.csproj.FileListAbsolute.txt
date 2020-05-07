@@ -1,0 +1,2 @@
+C:\zz\code\CFA\StreamingProcess\StreamingProcess.Service\obj\Debug\StreamingProcess.Services.csprojAssemblyReference.cache
+C:\zz\code\CFA\StreamingProcess\StreamingProcess.Service\obj\Debug\StreamingProcess.Services.csproj.CoreCompileInputs.cache
